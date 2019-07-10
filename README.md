@@ -21,3 +21,6 @@ git 不同版本并不是复制了原先的版本，而是在旧版本的基础�
 - 版本库: .git就是版本库
 - git status 查看当前git 的状态
 ## 管理修改
+- git checkout -- code.txt 撤销工作区的修改
+- git reset HEAD code.txt  git checkout -- code.txt 修改完添加到暂存区的先用第一个命令撤回然后用第二个命令撤回
+- 对于
