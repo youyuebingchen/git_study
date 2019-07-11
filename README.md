@@ -1,5 +1,5 @@
 # git_study
-git study
+git study 小改常commit pull request
 ## git init
 - 创建一个版本
 ## 创建一个版本
